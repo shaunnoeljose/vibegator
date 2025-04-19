@@ -2,9 +2,14 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
+import warnings
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.exceptions import InconsistentVersionWarning
+
+warnings.filterwarnings("ignore", category=InconsistentVersionWarning)
+warnings.filterwarnings("ignore", message="X does not have valid feature names.*")
 
 # streamlit setup
 st.set_page_config(page_title="SentiFi Recommender", layout="centered")
