@@ -31,6 +31,18 @@ All wrapped inside a responsive, Spotify-inspired web interface built with **Str
 - 🧩 Filtering results based on listening traits
 - 🌐 Delivering real-time, personalized recommendations through an interactive UI
 
+## 🔄 VibeGator Workflow
+
+```mermaid
+flowchart TD
+    A[🎧 Input Song + User Filters] --> B[🔍 Feature Engineering]
+    B --> C[🧠 Mood Classification<br>(Random Forest)]
+    B --> D[📊 Audio + Metadata Processing]
+    D --> E[🔁 Hybrid Similarity Calculation<br>(Text + Audio)]
+    C --> F[🎯 Mood Filtering]
+    E --> F
+    F --> G[✅ Trait Filtering<br>(Studying, Relaxing, Party...)]
+    G --> H[🎵 Final Recommendations]
 
 
 
