@@ -44,5 +44,13 @@ flowchart TD
     F --> G[Trait Filtering - Studying or Relaxing]
     G --> H[Final Recommendations]
 
+## 🖥️ Application mockup
+
+<p align="center">
+  <img src="assets/interface_screenshot.png" alt="VibeGator Interface" width="600"/>
+</p>
+
+The VibeGator interface allows users to select a song, choose mood preferences, and filter by listening traits — all within an intuitive Streamlit dashboard.
+
 
 
