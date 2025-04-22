@@ -41,10 +41,8 @@ flowchart TD
     D --> E[Hybrid Similarity Calculation]
     C --> F[Mood Filtering]
     E --> F
-    F --> G[Trait Filtering (e.g., Studying, Relaxing)]
+    F --> G[Trait Filtering - Studying or Relaxing]
     G --> H[Final Recommendations]
-```
-
 
 
 
