@@ -53,5 +53,34 @@ flowchart TD
 
 The VibeGator interface allows users to select a song, choose mood preferences, and filter by listening traits — all within an intuitive Streamlit dashboard.
 
+---
+
+## 🌐 Live App
+
+🚀 Try the live demo:  
+👉 [**Launch VibeGator on Streamlit Cloud**](https://vibegator-ccagavjaww2b4jw2dzyu5g.streamlit.app/)
+
+> No installation needed — explore song recommendations right in your browser!
+
+---
+
+## 🧪 How to Use the Interface
+
+1. **Select a song** from the dropdown.
+2. **Choose a mood preference**:
+   - `Auto` will predict the mood of the selected song.
+   - Or you can force the system to recommend only `Happy` or `Sad` songs.
+3. **Pick a listening trait** *(optional)*:
+   - Studying, Relaxing, Party, or Workout.
+4. **Select the similarity method**:
+   - `Hybrid` (best), `Audio Only`, or `Text Only`.
+5. Click **🔍 Get Recommendations** to see your results!
+
+🎯 The model will return a mood-aware, context-driven list of songs that match your selection.
+
+---
+
+✅ *Deployed using [Streamlit Community Cloud](https://streamlit.io/cloud)*  
+🔒 All data is processed locally in the session — no user data is stored.
 
 
