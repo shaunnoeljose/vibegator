@@ -1,5 +1,5 @@
 # Spotify Recommendation System - Vibegator
-![banner](assets/banner.png)
+![banner](vibegator_logo.png)
 
 
 
