@@ -1,7 +1,7 @@
 # Spotify A Mood-Aware Music Recommender - Vibegator
 
 <p align="center">
-  <img src="assets/vibegator_logo.png" alt="VibeGator Logo" width="150" height="150">
+  <img src="vibegator_logo.png" alt="VibeGator Logo" width="150" height="150">
 </p>
 
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
