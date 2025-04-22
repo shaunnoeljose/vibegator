@@ -42,7 +42,7 @@ flowchart TD
     C --> F[🎯 Mood Filtering]
     E --> F
     F --> G[✅ Trait Filtering<br>(Studying, Relaxing, Party...)]
-    G --> H[🎵 Final Recommendations]
+    G --> H[🎵 Final Recommendations]```
 
 
 
