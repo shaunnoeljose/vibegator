@@ -43,6 +43,7 @@ flowchart TD
     E --> F
     F --> G[Trait Filtering - Studying or Relaxing]
     G --> H[Final Recommendations]
+```
 
 ## 🖥️ Application mockup
 
