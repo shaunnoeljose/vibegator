@@ -1,4 +1,4 @@
-# Spotify A Mood-Aware Music Recommender - Vibegator
+# Vibegator - A Mood-Aware Music Recommender 
 
 <p align="center">
   <img src="vibegator_logo.png" alt="VibeGator Logo" width="150" height="150">
