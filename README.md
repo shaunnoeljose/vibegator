@@ -48,7 +48,7 @@ flowchart TD
 ## 🖥️ Application mockup
 
 <p align="center">
-  <img src="assets/interface_screenshot.png" alt="VibeGator Interface" width="600"/>
+  <img src="Screenshot 2025-04-18 134119-portrait.png" alt="VibeGator Interface" width="600"/>
 </p>
 
 The VibeGator interface allows users to select a song, choose mood preferences, and filter by listening traits — all within an intuitive Streamlit dashboard.
