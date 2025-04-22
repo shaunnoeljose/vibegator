@@ -22,6 +22,8 @@ In today’s digital streaming era, music platforms are increasingly focused on 
 
 All wrapped inside a responsive, Spotify-inspired web interface built with **Streamlit**.
 
+---
+
 ## ❓Problem Definition
 🎯 Traditional music recommendation systems: Focus heavily on collaborative filtering. Ignore the user’s **emotional state** and **listening context** and offer generic suggestions that miss the mood/intent behind listening
 
@@ -30,6 +32,8 @@ All wrapped inside a responsive, Spotify-inspired web interface built with **Str
 - 🎵 Generating hybrid similarity scores (TF-IDF + acoustic cosine)
 - 🧩 Filtering results based on listening traits
 - 🌐 Delivering real-time, personalized recommendations through an interactive UI
+
+---
 
 ## 🔄 VibeGator Workflow
 
@@ -44,6 +48,8 @@ flowchart TD
     F --> G[Trait Filtering - Studying or Relaxing]
     G --> H[Final Recommendations]
 ```
+
+---
 
 ## 🖥️ Application mockup
 
