@@ -1,2 +1,6 @@
-# vibegator
-Recommender engine based on mood and textual context
+# Spotify Recommendation System - Vibegator
+![banner](assets/banner.png)
+
+
+
+
