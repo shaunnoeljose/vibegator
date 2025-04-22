@@ -35,14 +35,15 @@ All wrapped inside a responsive, Spotify-inspired web interface built with **Str
 
 ```mermaid
 flowchart TD
-    A[🎧 Input Song & User Filters] --> B[🔍 Feature Engineering]
-    B --> C[🧠 Mood Classification (Random Forest)]
-    B --> D[📊 Audio & Metadata Processing]
-    D --> E[🔁 Hybrid Similarity Calculation]
-    C --> F[🎯 Mood Filtering]
+    A[Input Song and User Filters] --> B[Feature Engineering]
+    B --> C[Mood Classification - Random Forest]
+    B --> D[Audio and Metadata Processing]
+    D --> E[Hybrid Similarity Calculation]
+    C --> F[Mood Filtering]
     E --> F
-    F --> G[✅ Trait Filtering (Studying, Relaxing, Party)]
-    G --> H[🎵 Final Recommendations]
+    F --> G[Trait Filtering (e.g., Studying, Relaxing)]
+    G --> H[Final Recommendations]
+```
 
 
 
