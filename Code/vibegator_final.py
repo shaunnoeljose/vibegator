@@ -116,8 +116,8 @@ text_sim, audio_sim, hybrid_sim = compute_similarities()
 # loading the models and the pipeline
 @st.cache_resource
 def load_models():
-    pipeline = joblib.load("classification_pipeline.pkl")
-    model = joblib.load("rf_model.pkl")
+    pipeline = joblib.load("Code/classification_pipeline.pkl")
+    model = joblib.load("Code/rf_model.pkl")
     return pipeline, model
 
 pipeline, rf_model = load_models()
