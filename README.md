@@ -1,7 +1,7 @@
 # Vibegator - A Mood-Aware Music Recommender 
 
 <p align="center">
-  <img src="vibegator_logo.png" alt="VibeGator Logo" width="150" height="150">
+  <img src="Assets/vibegator_logo.png" alt="VibeGator Logo" width="150" height="150">
 </p>
 
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
@@ -54,7 +54,7 @@ flowchart TD
 ## 🖥️ Application mockup
 
 <p align="center">
-  <img src="Screenshot 2025-04-18 134119-portrait.png" alt="VibeGator Interface" width="450"/>
+  <img src="Assets/Application_mockup.png" alt="VibeGator Interface" width="450"/>
 </p>
 
 The VibeGator interface allows users to select a song, choose mood preferences, and filter by listening traits — all within an intuitive Streamlit dashboard.
