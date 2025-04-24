@@ -53,7 +53,7 @@ st.markdown(
 # loading the dataset
 @st.cache_data
 def load_data():
-    df = pd.read_csv("final_music.csv")
+    df = pd.read_csv("Data/final_music.csv")
     df.dropna(subset=['trackName', 'artistName', 'genre',
                       'danceability', 'energy', 'loudness', 'speechiness',
                       'acousticness', 'instrumentalness', 'liveness',
