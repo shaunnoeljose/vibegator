@@ -43,7 +43,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.image("vibegator_logo.png", width=120)
+st.image("Assets/vibegator_logo.png", width=120)
 st.title("🎧 VibeGator")
 st.markdown(
     "<h5 style='color: white; font-size: 20px;'>Mapping User Sentiment Into Curation</h5>",
