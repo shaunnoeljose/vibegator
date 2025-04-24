@@ -7,7 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics.pairwise import cosine_similarity
 
 # streamlit setup
-st.set_page_config(page_title="SentiFi Recommender", layout="centered")
+st.set_page_config(page_title="🎵VibeGator Recommender", layout="centered")
 
 st.markdown("""
     <style>
