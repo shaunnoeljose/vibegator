@@ -64,7 +64,7 @@ The VibeGator interface allows users to select a song, choose mood preferences, 
 ## 🌐 Live App
 
 🚀 Try the live demo:  
-👉 [**Launch VibeGator on Streamlit Cloud**](https://vibegator-ccagavjaww2b4jw2dzyu5g.streamlit.app/)
+👉 [**Launch VibeGator on Streamlit Cloud**](https://vibegator-imif8ujwurgb272scywayp.streamlit.app/)
 
 > No installation needed — explore song recommendations right in your browser!
 
